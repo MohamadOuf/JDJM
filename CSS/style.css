@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-color: #FAEBD7;
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 250%; 
+ }
+
+h2 {
+  color: black;
+  font-family: courier;
+  font-size: 200%;
+}
+
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+}
+
+</style>
+</head>
+<body>
