@@ -1,0 +1,3 @@
+# JDJM
+Project JDJM
+11/06/20 - Jastine - https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/html/html_css.asp, - editted the a basic css file

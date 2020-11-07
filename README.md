@@ -1,2 +1,0 @@
-# JDJM
-Project JDJM
