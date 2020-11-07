@@ -1,6 +1,8 @@
 # JDJM
 Project JDJM
+
 Example worklog-2/12/2016: (Bill) Researched genesis of UNIX at Bell Labs.  Linked potential resources on project document.  (.5 hours)
 
 11/06/20- Jeffrey- Added topic and headers to index.html
 11/06/20 - Jastine - https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/html/html_css.asp, - editted the a basic css file
+Mo Added brief introduction about the VR and how it works, My resources are from this link https://www.virtualsciencecenter.org/reality-or-perception
