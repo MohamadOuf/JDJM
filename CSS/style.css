@@ -24,6 +24,22 @@ p  {
   font-family: courier;
   font-size: 160%;
 }
+nav
+{
+  font-size: 120%;
+  margin-top: 50px;
+  float: left;
+  width: 20%;
+  background: #8A2BE2;
+  height: 6071px;
+  padding: 20px;
+}
+nav ul
+{
+  list-style: "\1F366";
+  list-style-position:outside;
+  color:green;
+}
 
 </style>
 </head>
