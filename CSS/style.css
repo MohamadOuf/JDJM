@@ -40,6 +40,10 @@ nav ul
   list-style-position:outside;
   color:green;
 }
+img {
+  float: right;
+}
+
 
 </style>
 </head>
