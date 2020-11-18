@@ -1,8 +1,6 @@
 # JDJM
 Project JDJM
 
-Example worklog-2/12/2016: (Bill) Researched genesis of UNIX at Bell Labs.  Linked potential resources on project document.  (.5 hours)
-
 11/17/20 - James - Made corrections on the website and added a body tag to show background (2 hours)
 11/17/20 - Jeffrey - Cleaned html and added nav bar. Organize content of webpage (2 hours)
 11/17/20 - Mohamad added Best VRs lists and potential future VR technology and background image (2 hours)
