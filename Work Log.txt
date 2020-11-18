@@ -8,4 +8,4 @@ JeffreyDChau-patch-3
 11/06/20 - Jastine - https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/html/html_css.asp, - editted the a basic css file, added current events (2 hours)
 11/06/20 -James - added prices of VR
 11/06/20 - Mo Added brief introduction about the VR and how it works, My resources are from this link https://www.virtualsciencecenter.org/reality-or-perception
-
+11/16/20 - Jastine - Finished adding to my current events and put my sources in the links section (0.5 hours)
