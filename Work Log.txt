@@ -2,7 +2,7 @@
 Project JDJM
 
 Example worklog-2/12/2016: (Bill) Researched genesis of UNIX at Bell Labs.  Linked potential resources on project document.  (.5 hours)
-
+11/17/20 - Mohamad added Best VRs lists and potential future VR technology and background image (2 hours)
 11/17/20 - Jastine - Added images and editted css (2 hours)
 11/16/20 - Jastine - Finished adding to my current events and put my sources in the links section (0.5 hours)
 JeffreyDChau-patch-3
